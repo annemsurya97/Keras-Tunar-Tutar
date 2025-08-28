@@ -26,7 +26,7 @@ Optimizers
 Evaluation of best models with accuracy & loss visualization
 
 📂 Project Structure
-├── data/                  # Dataset (if applicable)
+├── data/                  # Dataset 
 ├── notebooks/             # Jupyter notebooks for experiments
 ├── scripts/               # Python scripts for training & tuning
 │   ├── model.py           # Model building function
